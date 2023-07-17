@@ -15,7 +15,7 @@ Pardakht is a versatile payment gateway that provides seamless and secure paymen
 
 ## Contributing
 
-We welcome contributions from the community to enhance our payment gateway and make it even better. If you would like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](https://github.com/thepardakht/.github/main/profile/CONTRIBUTING.md) file.
+We welcome contributions from the community to enhance our payment gateway and make it even better. If you would like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](https://github.com/thepardakht/.github/blob/main/profile/CONTRIBUTING.md) file.
 
 ## License
 
