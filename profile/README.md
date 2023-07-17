@@ -19,7 +19,7 @@ We welcome contributions from the community to enhance our payment gateway and m
 
 ## License
 
-Pardakht Payment Gateway is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](./LICENSE) file for more details.
+Pardakht Payment Gateway is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/thepardakht/.github/blame/main/LICENSE) file for more details.
 
 ## Contact
 
