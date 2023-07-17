@@ -12,26 +12,10 @@ Pardakht is a versatile payment gateway that provides seamless and secure paymen
 - **Customization and Integration:** Our payment gateway can be easily customized and integrated with existing systems, allowing businesses to tailor the payment experience to their specific needs.
 - **Comprehensive Documentation:** Pardakht provides extensive documentation and resources to assist developers and users in integrating and utilizing our payment gateway effectively.
 
-## Getting Started
-
-To get started with Pardakht Payment Gateway, follow these steps:
-
-1. **Choose a Platform:** Select the platform that best suits your needs, whether it's iOS, iPhone, Windows, Linux, or Android.
-2. **Integrate the Payment Gateway:** Refer to the platform-specific documentation in the `docs` directory for detailed instructions on integrating Pardakht Payment Gateway with your application or platform.
-3. **Configure the Payment Gateway:** Customize the payment gateway's settings and parameters according to your requirements, ensuring a seamless integration and tailored payment experience.
-4. **Test and Deploy:** Thoroughly test your integration to ensure all payment functionalities work as expected. Once testing is complete, deploy your application or platform with confidence.
-
-For platform-specific instructions, refer to the documentation provided in the `docs` directory:
-
-- [iOS Integration](./docs/ios_integration.md)
-- [Android Integration](./docs/android_integration.md)
-- [Windows Integration](./docs/windows_integration.md)
-- [Linux Integration](./docs/linux_integration.md)
-- [iPhone Integration](./docs/iphone_integration.md)
 
 ## Contributing
 
-We welcome contributions from the community to enhance our payment gateway and make it even better. If you would like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
+We welcome contributions from the community to enhance our payment gateway and make it even better. If you would like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](https://github.com/thepardakht/.github/main/profile/CONTRIBUTING.md) file.
 
 ## License
 
