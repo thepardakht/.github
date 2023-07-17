@@ -6,7 +6,7 @@ Pardakht is a versatile payment gateway that provides seamless and secure paymen
 
 ## Features
 
-- **Platform Compatibility:** Pardakht supports a wide range of platforms, including iOS, iPhone, Windows, Linux, and Android, enabling users to integrate our payment gateway into their preferred systems.
+- **Platform Compatibility:** Pardakht supports a wide range of platforms, including iOS, macOS, Windows, Linux, and Android, enabling users to integrate our payment gateway into their preferred systems.
 - **Secure Transactions:** We prioritize the security of financial information, employing robust encryption protocols and complying with industry standards to ensure secure and confidential transactions.
 - **User-Friendly Interface:** Pardakht offers a user-friendly interface designed to simplify the payment process, providing a seamless and intuitive experience for users.
 - **Customization and Integration:** Our payment gateway can be easily customized and integrated with existing systems, allowing businesses to tailor the payment experience to their specific needs.
