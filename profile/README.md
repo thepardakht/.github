@@ -31,7 +31,7 @@ For platform-specific instructions, refer to the documentation provided in the `
 
 ## Contributing
 
-We welcome contributions from the community to enhance our payment gateway and make it even better. If you would like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
+We welcome contributions from the community to enhance our payment gateway and make it even better. If you would like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](./profile/CONTRIBUTING.md) file.
 
 ## License
 
