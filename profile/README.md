@@ -23,6 +23,6 @@ Pardakht Payment Gateway is licensed under the [MIT License](https://opensource.
 
 ## Contact
 
-For any inquiries, feedback, or support, please reach out to us at [contact@pardakht.com](mailto:contact@pardakht.com). You can also visit our website at [www.pardakht.com](https://www.pardakht.com) for more information.
+For any inquiries, feedback, or support, please reach out to us at [support@pardakht.net](mailto:support@pardakht.net). You can also visit our website at [www.pardakht.net](https://www.pardakht.net) for more information.
 
 We value your input and look forward to helping you with your payment gateway needs.
