@@ -1,7 +1,7 @@
 <img
   src="https://github.com/thepardakht/.github/blob/main/header.png"
   alt="Pardakht Header Image"
-  style="display: inline-block; margin: 0 auto; width: 100%">
+  style="display: inline-block; width: 100%">
 # Pardakht Payment Gateway
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
