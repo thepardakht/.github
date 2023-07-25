@@ -1,5 +1,5 @@
 <img
-  src="../header.png"
+  src="https://github.com/thepardakht/.github/blob/main/header.png"
   alt="Pardakht Header Image"
   style="display: inline-block; margin: 0 auto; width: 100%">
 # Pardakht Payment Gateway
